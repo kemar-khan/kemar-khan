@@ -15,8 +15,8 @@
 ## 🎯 Career Focus
 - Mobile Application Development  
 - Full Stack Development  
-- Software Engineering  
-- FinTech & Smart Systems  
+- Data Analyst 
+- Project Management 
 
 ---
 
