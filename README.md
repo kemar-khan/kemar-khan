@@ -99,10 +99,10 @@ Database system developed to streamline café inventory and stock management ope
 ### 📍 Telekom Malaysia (TM R&D) — Mobile Developer Intern
 
 **Key Contributions:**
+- Developed a chatbot for TMForce Mobile App
 - Developed UI components for internal mobile applications  
 - Conducted software testing & bug validation  
-- Assisted API integration testing  
-- Collaborated in Agile development environment  
+- Assisted API integration testing
 
 ---
 
